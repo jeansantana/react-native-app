@@ -1,3 +1,3 @@
 # react-native-app
 
-This app is meat to improve my skills on react native.
+This app is meant to improve my skills on react native.
